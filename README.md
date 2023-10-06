@@ -1,6 +1,6 @@
 # WEBGL 飛機遊戲
 
-https://zefa1234.github.io/s1073507_CGhw2.html
+https://WebGL-game.github.io/s1073507_CGhw2.html
 
 # 玩法
 
